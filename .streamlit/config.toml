@@ -1,5 +1,8 @@
 [client]
-maxUploadSize = 200
+maxUploadSize = 500
+
+[server]
+maxMessageSize = 500
 
 [theme]
 primaryColor = "#FF6B6B"
