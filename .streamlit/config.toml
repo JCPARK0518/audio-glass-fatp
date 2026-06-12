@@ -1,3 +1,6 @@
+[client]
+maxUploadSize = 200
+
 [theme]
 primaryColor = "#FF6B6B"
 backgroundColor = "#FFFFFF"
